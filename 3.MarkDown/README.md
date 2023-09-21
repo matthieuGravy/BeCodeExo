@@ -2,7 +2,7 @@
 
 I tried to resolve conflicts but i show my error messages inside README.MD 
 from 
-the readme.md from [ours project](https://github.com/matthieuGravy/groupeMarkDown/tree/main)) 
+the readme.md from [our exercices]([https://github.com/marcn97](https://github.com/matthieuGravy/groupeMarkDown/tree/main)).
 
 
 
